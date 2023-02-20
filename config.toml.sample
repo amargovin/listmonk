@@ -14,10 +14,10 @@ admin_password = "listmonk"
 
 # Database.
 [db]
-host = "localhost"
-port = 5432
-user = "listmonk"
-password = "listmonk"
+host = "pg-db-do-user-2251932-0.b.db.ondigitalocean.com"
+port = 25060
+user = "doadmin"
+password = "AVNS_FgMuY98_OoFNvFpnkyi"
 
 # Ensure that this database has been created in Postgres.
 database = "listmonk"
